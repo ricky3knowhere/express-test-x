@@ -1,0 +1,23 @@
+{
+  "name": "express_test",
+  "version": "1.0.0",
+  "description": "express test heroku",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricky3knowhere/express-test-x.git"
+  },
+  "author": "ricky3knowhere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricky3knowhere/express-test-x/issues"
+  },
+  "homepage": "https://github.com/ricky3knowhere/express-test-x#readme"
+}
